@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-remote_theme: fongandrew/hydeout
+remote_theme: leonardo-rlg/leonardo-rlg.github.io
 # Setup
 title:            Hydeout
 tagline:          'A Jekyll theme'
