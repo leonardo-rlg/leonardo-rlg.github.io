@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dynamic Optimization
+title: Dynamic optimization
 date: 2020-01-02 19:31:29 +0900
 category: Teaching
 ---
