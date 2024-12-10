@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Dynamic optimization
-date: 2020-01-02 19:31:29 +0900
-category: Teaching
+date: 2024-12-10 19:31:29 +0900
+category: teaching
 ---
 # Course syllabus 
 This course aims ...
