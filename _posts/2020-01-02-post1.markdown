@@ -4,6 +4,6 @@ title: Dynamic Optimization
 date: 
 category: Teaching
 ---
-# Post-sample
-This course
+# Course syllabus 
+This course aims ...
 
