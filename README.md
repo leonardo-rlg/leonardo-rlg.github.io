@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beamer
+title: Research
 permalink: /about/
 ---
 
