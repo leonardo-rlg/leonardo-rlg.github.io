@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Leonardo Laura
-> SEPI-ESE-IPN
+> llaurag@ipn.mx
 
 ### Features
 - Responsive.
